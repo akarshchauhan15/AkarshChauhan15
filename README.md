@@ -29,13 +29,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
 - ❓ Ask me about anything related to Python, C#, Godot.  
   
 
-- 📈I'm planning to learn Linux and Web Development.  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- 📈I'm planning to learn Linux and Web Development.   
 
 
-</td>
+</td></tr>
 
 </table>
 
