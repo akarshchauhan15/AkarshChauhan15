@@ -18,7 +18,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working on [Basic 2D Game](https://github.com/AkarshChauhan15/Dodge-The-Creeps)  
   
@@ -35,11 +35,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
-</td><td valign="top" width="50%">
+</td>
 
 
-
-</td></tr></table>  
 
 <br/>  
 
