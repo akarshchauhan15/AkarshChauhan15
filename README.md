@@ -6,8 +6,7 @@
 ### Glad to see you here!  
 I’m a amateur developer, starting my journey with python and eventually reaching up game development using Godot and C#, fulfilling my keen interest of being a 'Game Developer'. As of now, I have a decent experience regarding game development and python.
 
-I specialize in building small projects and . I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
-  
+I specialize in building small projects. I love desigining 2D indie, action and adventure games that one can spend quality time on. I am also hugely insterested in fields like graphics desigining, web designing, web development and AI
 
 <a href="https://github.com/AkarshChauhan15" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
