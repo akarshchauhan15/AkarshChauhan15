@@ -9,7 +9,7 @@ I’m a amateur developer, starting my journey with python and eventually reachi
 I specialize in building small projects and . I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
   
 
-<a href="https://github.com/https://github.com/AkarshChauhan15" target="_blank">
+<a href="https://github.com/AkarshChauhan15" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
   
